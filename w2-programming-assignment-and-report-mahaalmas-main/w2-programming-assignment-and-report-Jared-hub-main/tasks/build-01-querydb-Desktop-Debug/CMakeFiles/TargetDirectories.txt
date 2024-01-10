@@ -1,0 +1,7 @@
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/querydb.dir
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/edit_cache.dir
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/list_install_components.dir
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/install.dir
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/install/local.dir
+D:/taskss/JERRY/C++/Qtcreator/w2-programming-assignment-and-report-Jared-hub-main/tasks/build-01-querydb-Desktop-Debug/CMakeFiles/install/strip.dir
